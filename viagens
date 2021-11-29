@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="div {.css">
+</head>
+
+<body>
+    <h1>Os 5 Lugares mais visitados no Brasil</h1>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="img/agustin-diaz-gargiulo-7F65HDP0-E0-unsplash.jpg"
+                    alt="Primeiro Slide">
+                <div class="carousel-caption">
+                    <h2>Rio de Janeiro</h2>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="img/cassiano-psomas-p51Y6rzWKnA-unsplash.jpg" alt="Segundo Slide">
+                <div class="carousel-caption">
+                    <h2>Florianópolis</h2>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="img/jonatan-lewczuk-MAN-afLJt2E-unsplash.jpg" alt="Terceiro Slide">
+                <div class="carousel-caption">
+                    <h2>Foz do Iguaçu</h2>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="img/felipe-dias-dPZNZHg3X7g-unsplash.jpg" alt="Quarto Slide">
+                <div class="carousel-caption">
+                    <h2>Salvador</h2>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="img/j-balla-photography-mXDJqv2j5p4-unsplash.jpg" alt="Quinto Slide">
+                <div class="carousel-caption">
+                    <h2>Porto Seguro</h2>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+
+</html>
